@@ -1,0 +1,25 @@
+body {
+	display: grid;
+}
+
+header {
+	background-color: #800000;
+}
+
+nav {
+	background-color: #FFA500;
+}
+
+main {
+	background-color: #FFFF00;
+}
+
+section {
+	background-color: #EE82EE;
+}
+
+footer {
+	background-color: #00FF00;
+}
+
+
